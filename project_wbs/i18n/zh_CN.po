@@ -573,8 +573,9 @@ msgstr "WBS名称"
 
 #. module: project_wbs
 #: view:project.project:project_wbs.edit_project
-msgid "Work Breakdown Structure"
-msgstr "任务分解结构"
+#: model:ir.ui.menu,name:project.menu_projects
+msgid " Work Breakdown Structure"
+msgstr "任务分解"
 
 #. module: project_wbs
 #: selection:account.analytic.account,account_class:0
